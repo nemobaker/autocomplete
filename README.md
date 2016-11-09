@@ -58,7 +58,7 @@ Work off of this HTML file and render the application into `#app-autocomplete`. 
 - How does using it feel overall?
 
 ### Timeframe
-Take as much time as you need. We're expecting this will take you one or two evenings.
+We're expecting this will take you one or two evenings.
 
 ### More Questions?
 Contact nemo@pax.com.
